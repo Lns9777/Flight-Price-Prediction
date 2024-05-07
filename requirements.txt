@@ -6,3 +6,4 @@ feature-engine
 xgboost
 joblib
 bz2file
+matplotlib.pyplot
